@@ -2,7 +2,7 @@
 #### One cheap component stops my "Home Alone" device  
 
 ![Thumbnail](https://user-images.githubusercontent.com/20911308/161760739-6f15bf11-2151-4bf6-a50c-ae8a8bdb9256.jpg)  
-(See Video #242 )
+(See Video #242 https://youtu.be/vwVdrabMQPI)
 
 [![JLCPCB-Purple](https://user-images.githubusercontent.com/20911308/159024530-3e083ca1-fea4-4ba9-97d3-a3af3fb979d2.png)](https://www.jlcpcb.com/cem)  
 

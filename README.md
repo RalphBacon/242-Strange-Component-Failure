@@ -36,7 +36,6 @@ The project used the Wemos D1 Mini ESP8266 stackable modules. These are small, u
 ► List of all my videos
 (Special thanks to Michael Kurt Vogel for compiling this)  
 http://bit.ly/YouTubeVideoList-RalphBacon
-NOT THIS ONE http://bit.ly/VideoList-RalphBacon
 
 ► If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite (and other μControllers) journey
 
